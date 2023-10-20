@@ -4,3 +4,5 @@ git status
 -Lists all files
 git commit
 -Then git commit is used to create a snapshot of the changes made
+git remote
+-The git remote command lets you create, view, and delete connections to other repositories
