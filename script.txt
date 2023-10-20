@@ -2,4 +2,5 @@ git add
 -Adds files to next commit only
 git status
 -Lists all files
-
+git commit
+-Then git commit is used to create a snapshot of the changes made
