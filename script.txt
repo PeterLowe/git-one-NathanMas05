@@ -8,3 +8,5 @@ git remote
 -The git remote command lets you create, view, and delete connections to other repositories
 git push
 -The git push command is used to upload local repository content to a remote repository
+git branch
+-Git branch is effectively a pointer to a snapshot of your changes
