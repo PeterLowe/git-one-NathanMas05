@@ -10,3 +10,5 @@ git push
 -The git push command is used to upload local repository content to a remote repository
 git branch
 -Git branch is effectively a pointer to a snapshot of your changes
+git checkout
+-Git checkout allows you to navigate through your created branches
