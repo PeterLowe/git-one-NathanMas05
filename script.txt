@@ -16,3 +16,5 @@ git merge
 -Git merge puts a forked history back together again
 git log
 -Git log keeps track of your project and can filter information
+git clone
+-Git clone creates a copy of an existing repository
